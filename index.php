@@ -27,7 +27,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="resume.html">Michael Jones</a>
+      <a class="navbar-brand" href="index.php">Michael Jones</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
